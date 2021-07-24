@@ -31,10 +31,13 @@
 ![Paused](paused.jpg "Paused")
 
 ## This is the screen which appears when player's car is crashed with the enemy car and the game stops here.
-![Crashed](crashed.jpg "Crashed")
+![Crashed](crash.jpg "Crashed")
 
 ## This is the screen which appears when player scores more points by crossing different levels and achieves a high score.
-![Level](level+highscore.jpg "Levels & Highscore")
+![Level](level.jpg "Levels & Highscore")
+
+##The levels are getting updated!
+![Level2](level2.jpg "Levels & Highscore")
 
 
 
