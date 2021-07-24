@@ -1,4 +1,4 @@
-# Car Racing Game
+# Car Game
 ## Pygame module and a collection of various libraries is used for game development in Python. 
 # Installation
 1. Install PyCharm
