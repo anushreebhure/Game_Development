@@ -18,7 +18,7 @@
 - As the level of the game increases, the speed of the enemy car increases and the highscore is updated.
 
 # Images
-## This the home screen where player can navigate through.
+## This the home screen where player can navigate through buttons.
 ![Main_Screen](main_screen.jpg "Home Screen")
 
 ## This is the instructions page where player can go through all the controls required to play the game.
@@ -28,15 +28,15 @@
 ![Start](go.jpg "Start")
 
 ## This is the paused screen which appears after player clicks on Pause button. Player can resume the game or can restart the game or can move to the main menu.
-![Paused](paused.jpg "Paused")
+![Paused](pause.jpg "Paused")
 
 ## This is the screen which appears when player's car is crashed with the enemy car and the game stops here.
 ![Crashed](crash.jpg "Crashed")
 
-## This is the screen which appears when player scores more points by crossing different levels and achieves a high score.
+## This is the screen where player's level gets updated and speed of incoming car will also be increased.
 ![Level](level.jpg "Levels & Highscore")
 
-##The levels are getting updated!
+## Here player's level gets updated from Level 1 to Level 2.
 ![Level2](level2.jpg "Levels & Highscore")
 
 
