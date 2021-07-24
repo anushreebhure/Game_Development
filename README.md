@@ -18,6 +18,14 @@
 - As the level of the game increases, the speed of the enemy car increases and the highscore is updated.
 
 # Images
+![Main_Screen](main_screen.jpg "Home Screen")
+
+![Instructions](instructions.jpg "Instructions")
+![Start](go.jpg "Start")
+![Paused](paused.jpg "Paused")
+![Crashed](crashed.jpg "Crashed")
+![Level](level+highscore.jpg "Levels & Highscore")
+
 
 
 
